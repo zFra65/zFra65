@@ -2,55 +2,37 @@
 <h3 align="center">Senior System Analyst & Linux Specialist</h3>
 
 <p align="center">
-  💻 With a strong passion for technology and innovation, I specialize in
-  Linux/Unix systems administration, IT infrastructure management, and cloud
-  solutions. My experience supports large-scale infrastructures and ensures
-  efficient, reliable operations.
+  💻 <strong>Passionate about technology and innovation</strong>, I specialize in
+  <strong>Linux/Unix systems administration</strong>, <strong>IT infrastructure management</strong>, and <strong>cloud computing</strong>.
+  I strive to build stable, scalable, and secure environments supporting mission-critical operations.
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>Frameworks, AI</strong>.</p>
+<p align="center">
+  🌱 <em>Currently diving into:</em> <strong>Modern Frameworks</strong> & <strong>Artificial Intelligence</strong>
+</p>
 
-<h3 align="center">🚀 Currently building:</h3>
+<h3 align="center">🚀 What I'm building:</h3>
 <ul>
   <li align="center">
-    <strong>FMHosting & FM Digital Solutions</strong>: Providing cutting-edge IT
-    consulting, tailored hosting solutions, and AI-powered innovations to
-    elevate your digital projects.
+    <strong>FMHosting & FM Digital Solutions</strong> — Your go-to partners for reliable IT consulting,
+    tailored hosting solutions, and intelligent digital transformation.
   </li>
 </ul>
 
 <p align="center">
-  📫 <strong>How to reach me:</strong> francescotontaro2@gmail.com
+  📫 <strong>Reach me at:</strong> <a href="mailto:francescotontaro2@gmail.com">francescotontaro2@gmail.com</a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/francescotontaro" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="francescotontaro"
-      height="30"
-      width="40"
-    />
+  <a href="https://linkedin.com/in/francescotontaro" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kekko.tontaro" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="kekko.tontaro"
-      height="30"
-      width="40"
-    />
+  <a href="https://instagram.com/kekko.tontaro" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/fra65" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="fra65"
-      height="30"
-      width="40"
-    />
+  <a href="https://discord.gg/fra65" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
