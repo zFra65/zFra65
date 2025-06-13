@@ -14,7 +14,7 @@
 <h3 align="center">🚀 What I'm building:</h3>
 <ul>
   <li align="center">
-    <strong>FMHosting & FM Digital Solutions</strong> — Your go-to partners for reliable IT consulting,
+    <strong>FMHosting & FMDigitech </strong> — Your go-to partners for reliable IT consulting,
     tailored hosting solutions, and intelligent digital transformation.
   </li>
 </ul>
