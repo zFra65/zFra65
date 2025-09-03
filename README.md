@@ -20,7 +20,7 @@
 </ul>
 
 <p align="center">
-  📫 <strong>Reach me at:</strong> <a href="mailto:francescotontaro2@gmail.com">francescotontaro2@gmail.com</a>
+  📫 <strong>Reach me at:</strong> <a href="mailto:f.tontaro@fmdigitech.com">f.tontaro@fmdigitech.com</a>
 </p>
 
 <h3 align="center">🌐 Connect with me:</h3>
